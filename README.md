@@ -34,7 +34,7 @@ A modern web application for creating and managing beautiful presentations onlin
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/Justhateme0/Website-for-creating-presentations
 ```
 
 2. Install dependencies:
