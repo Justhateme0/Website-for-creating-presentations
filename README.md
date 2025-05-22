@@ -12,7 +12,7 @@ A modern web application for creating and managing beautiful presentations onlin
 ![Presentation Editor](./assets/editor.png)
 *Presentation editor interface*
 
-## �� Technologies Used
+## 🖥️ Technologies Used
 
 - React
 - TypeScript
@@ -68,10 +68,6 @@ npm run dev
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
