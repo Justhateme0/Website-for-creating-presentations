@@ -2,7 +2,7 @@
 
 A modern web application for creating and managing beautiful presentations online. Built with cutting-edge technologies to provide a seamless and intuitive presentation creation experience.
 
-![Project Banner](./assets/banner.jpg)
+![Project Banner](./assets/banner.png)
 
 ## 📸 Screenshots
 
@@ -21,6 +21,29 @@ A modern web application for creating and managing beautiful presentations onlin
 - ESLint for code quality
 - PostCSS
 
+## 💡 How to Add Images to README
+
+To add images to this README, you can:
+
+1. Create an `assets` folder in your repository:
+```bash
+mkdir assets
+```
+
+2. Add images using either:
+
+   - **Local images:**
+   ```markdown
+   ![Image description](./assets/your-image.png)
+   ```
+
+   - **Remote images:**
+   ```markdown
+   ![Image description](https://url-to-your-image.com/image.png)
+   ```
+
+3. For better organization, store your images in the `assets` folder.
+
 ## ✨ Features
 
 - Modern and intuitive user interface
@@ -34,7 +57,7 @@ A modern web application for creating and managing beautiful presentations onlin
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Justhateme0/Website-for-creating-presentations
+git clone [your-repository-url]
 ```
 
 2. Install dependencies:
@@ -68,6 +91,10 @@ npm run dev
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
