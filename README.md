@@ -21,29 +21,6 @@ A modern web application for creating and managing beautiful presentations onlin
 - ESLint for code quality
 - PostCSS
 
-## 💡 How to Add Images to README
-
-To add images to this README, you can:
-
-1. Create an `assets` folder in your repository:
-```bash
-mkdir assets
-```
-
-2. Add images using either:
-
-   - **Local images:**
-   ```markdown
-   ![Image description](./assets/your-image.png)
-   ```
-
-   - **Remote images:**
-   ```markdown
-   ![Image description](https://url-to-your-image.com/image.png)
-   ```
-
-3. For better organization, store your images in the `assets` folder.
-
 ## ✨ Features
 
 - Modern and intuitive user interface
