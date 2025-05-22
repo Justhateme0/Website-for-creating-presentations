@@ -2,8 +2,6 @@
 
 A modern web application for creating and managing beautiful presentations online. Built with cutting-edge technologies to provide a seamless and intuitive presentation creation experience.
 
-![Project Banner](./assets/banner.jpg)
-
 ## 📸 Screenshots
 
 ![Dashboard](./assets/dashboard.png)
