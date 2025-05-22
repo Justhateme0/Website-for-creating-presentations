@@ -1,8 +1,18 @@
-# Presentation Creator Web Application
+# Website for Creating Presentations
 
 A modern web application for creating and managing beautiful presentations online. Built with cutting-edge technologies to provide a seamless and intuitive presentation creation experience.
 
-## 🚀 Technologies Used
+![Project Banner](./assets/banner.jpg)
+
+## 📸 Screenshots
+
+![Dashboard](./assets/dashboard.png)
+*Main dashboard view*
+
+![Presentation Editor](./assets/editor.png)
+*Presentation editor interface*
+
+## �� Technologies Used
 
 - React
 - TypeScript
@@ -58,10 +68,6 @@ npm run dev
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
